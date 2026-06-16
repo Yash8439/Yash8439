@@ -52,14 +52,6 @@ AI-powered fact-checking and content verification platform.
 
 ---
 
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=Yash8439&show_icons=true&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yash8439&layout=compact&theme=tokyonight)
-
----
-
 ## 🌐 Connect With Me
 
 💼 LinkedIn:
