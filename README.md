@@ -18,6 +18,10 @@
 
 ---
 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,js,ts,react,nextjs,tailwind,nodejs,express,mongodb,postgresql,firebase,git,github,vscode,postman" />
+</p>
+
 ## 🛠️ Tech Stack
 
 ### Languages
