@@ -66,10 +66,10 @@ AI-powered fact-checking and content verification platform.
 ## 🌐 Connect With Me
 
 💼 LinkedIn:
-https://linkedin.com/in/YOUR-LINKEDIN
+https://www.linkedin.com/in/yash-rastogi-80a84b28b/?skipRedirect=true
 
 📧 Email:
-your-email@example.com
+rastogiy66@gmail.com
 
 ---
 
