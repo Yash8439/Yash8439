@@ -18,26 +18,11 @@
 
 ---
 
+## 🛠️ Tech Stack
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=cpp,js,ts,react,nextjs,tailwind,nodejs,express,mongodb,postgresql,firebase,git,github,vscode,postman" />
 </p>
-
-## 🛠️ Tech Stack
-
-### Languages
-C++ • JavaScript • TypeScript
-
-### Frontend
-React.js • Next.js • HTML • CSS • Tailwind CSS
-
-### Backend
-Node.js • Express.js
-
-### Database
-MongoDB • PostgreSQL
-
-### Tools
-Git • GitHub • Postman • Firebase • VS Code
 
 ---
 
