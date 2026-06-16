@@ -1,16 +1,76 @@
-## Hi there 👋
+# Hey there 👋 I'm Yash Rastogi
 
-<!--
-**Yash8439/Yash8439** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full Stack Developer building AI-powered and scalable web applications.
 
-Here are some ideas to get you started:
+🎓 B.Tech CSE Student (3rd Year)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 Passionate about Full Stack Development, AI Applications, DSA and System Design.
+
+---
+
+## 🚀 About Me
+
+- 🌱 Currently learning System Design & Cloud Computing
+- 💻 MERN Stack Developer
+- 🧠 Solving DSA problems in C++
+- 🤖 Building AI-powered products
+- 🎯 Looking for Software Development Internships
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+C++ • JavaScript • TypeScript
+
+### Frontend
+React.js • Next.js • HTML • CSS • Tailwind CSS
+
+### Backend
+Node.js • Express.js
+
+### Database
+MongoDB • PostgreSQL
+
+### Tools
+Git • GitHub • Postman • Firebase • VS Code
+
+---
+
+## 🔥 Featured Projects
+
+### 🤖 Dora AI
+AI-powered website builder with intelligent website generation and editing capabilities.
+
+### 💻 CodifyX
+LeetCode-inspired coding platform for practicing Data Structures and Algorithms.
+
+### 🍔 Swiggy Clone
+Food delivery web application with responsive UI and modern frontend architecture.
+
+### 📰 FactGuard AI
+AI-powered fact-checking and content verification platform.
+
+---
+
+## 📈 Current Focus
+
+- Advanced MERN Stack Development
+- System Design
+- Cloud Computing
+- Data Structures & Algorithms
+- AI Integrations
+
+---
+
+## 🌐 Connect With Me
+
+💼 LinkedIn:
+https://linkedin.com/in/YOUR-LINKEDIN
+
+📧 Email:
+your-email@example.com
+
+---
+
+⭐ Building projects, learning daily, and growing as a developer.
